@@ -1,3 +1,5 @@
+SUBDIRS = ch03/execise3-11
+
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
 OBJS =		cppdeitel_examples.o

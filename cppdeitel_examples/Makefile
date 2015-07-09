@@ -1,4 +1,4 @@
-SUBDIRS = ch03
+
 
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
